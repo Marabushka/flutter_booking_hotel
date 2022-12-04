@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792280856214",
+    "project_id": "flutterbookingdatabase",
+    "storage_bucket": "flutterbookingdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792280856214:android:db983f318bcb16591db4b7",
+        "android_client_info": {
+          "package_name": "com.example.hotel_database_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792280856214-bca8c0jihb03ht71nud40hd9kk14lhsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIrqjGbCQte1j2GgSmK1b9t_9ncf6zEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792280856214-bca8c0jihb03ht71nud40hd9kk14lhsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
